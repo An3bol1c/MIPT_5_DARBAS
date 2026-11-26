@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="menu_add_note">Sukurti užrašą</string>
+    <string name="menu_delete_note">Ištrinti užrašą</string>
+    <string name="hint_note_name">Pavadinimas</string>
+    <string name="hint_note_content">Turinys</string>
+    <string name="save">Išsaugoti</string>
+    <string name="delete">Ištrinti</string>
+    <string name="note_saved">Užrašas išsaugotas</string>
+    <string name="note_deleted">Užrašas ištrintas</string>
+    <string name="no_notes">Užrašų nėra</string>
+    <string name="error_name_empty">Įveskite pavadinimą</string>
+    <string name="error_name_too_long">Pavadinimas per ilgas (maks. 50)</string>
+    <string name="error_name_exists">Toks pavadinimas jau yra</string>
+    <string name="error_content_empty">Įveskite turinį</string>
+    <string name="title_add_note">Sukurti užrašą</string>
+    <string name="title_delete_note">Ištrinti užrašą</string>
+</resources>
